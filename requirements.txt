@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+transformers
+youtube_transcript_api
+torch
